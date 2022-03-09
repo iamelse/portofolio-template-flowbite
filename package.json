@@ -1,0 +1,17 @@
+{
+    "name": "portofolio-flowbite",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tailwind.config.js",
+    "dependencies": {
+      "tailwindcss": "^3.0.23"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/app.css --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
+  

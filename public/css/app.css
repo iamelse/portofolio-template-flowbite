@@ -1039,6 +1039,10 @@ input:checked + .toggle-bg {
   max-width: 80rem;
 }
 
+.max-w-4xl {
+  max-width: 56rem;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -1734,6 +1738,10 @@ input:checked + .toggle-bg {
 
   .md\:w-4\/12 {
     width: 33.333333%;
+  }
+
+  .md\:w-6\/12 {
+    width: 50%;
   }
 
   .md\:flex-row {
